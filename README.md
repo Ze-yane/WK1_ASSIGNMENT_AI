@@ -12,8 +12,6 @@ It allows users to browse courses, view lessons, and track their learning progre
 - ✅ **Mark as Completed** button (progress saved with localStorage)  
 - 📈 **Progress Bar** showing course completion level  
 - 💾 **Persistent data** — completed courses remain saved on reload  
-- 💅 **Modern and responsive UI** with hover effects and transitions  
-- 🌿 **Green and white professional theme**
 
 ---
 
@@ -24,10 +22,4 @@ It allows users to browse courses, view lessons, and track their learning progre
 - **JavaScript (ES6)** – Logic, interactivity, and localStorage  
 
 ---
-
-## ⚙️ How to Use
-
-1. **Download or clone** this repository:
-   ```bash
-   git clone https://github.com/yourusername/mini-elearning-platform.git
 
